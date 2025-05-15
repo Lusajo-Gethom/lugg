@@ -1,2 +1,2 @@
-# my-portfolio
+# my personal page
 Know More about me
